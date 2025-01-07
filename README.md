@@ -11,4 +11,4 @@ Visual Studio Code
 
 Deployed Link:
 
-RecruitTrack - ATS Analytics Hub Streamlit App: https://recruittrack---ats-analytics-app-a6nhukfswq33ywxmzwjrxa.streamlit.app
+RecruitTrack - ATS Analytics Hub Streamlit App: https://recruittrack---ats-analytics-app-db5qm9pmvluspltpkpl9wf.streamlit.app/
