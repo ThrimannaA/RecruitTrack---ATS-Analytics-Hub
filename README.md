@@ -1,7 +1,7 @@
 # RecruitTrack---ATS-Analytics-Hub
 I have developed an ATS (Applicant Tracking System) Resume Analysis and Tracking System as a personal project to enhance the recruitment process for companies. This system enables companies to determine whether a candidate can be shortlisted for the first interview based on the ATS resume match percentage, leveraging the capabilities of Gemini Pro. Additionally, it provides a summary of the candidate's strengths, weaknesses, and overall profile by clicking the 'Review Candidate Details' button, which analyzes the uploaded candidate CV. By clicking the 'Identify Missing Keywords' button, the system identifies keywords missing in the candidate's CV compared to the job description, aligning the company's requirements with the candidate's profile.
 
-Tools and Technologies:
+## Tools and Technologies:
 
  streamlit | google-generativeai | python-dotenv | PyPDF2 | Visual Studio Code
 
