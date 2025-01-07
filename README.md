@@ -20,6 +20,7 @@ I have developed an ATS (Applicant Tracking System) Resume Analysis and Tracking
 ## Benefits  
 - Streamlines the recruitment process by automating resume evaluation.  
 - Helps recruiters make informed decisions quickly.  
-- Ensures alignment between job requirements and candidate profiles.  
+- Ensures alignment between job requirements and candidate profiles.
 
-Deployed Link : RecruitTrack - ATS Analytics Hub Streamlit App: https://recruittrack---ats-analytics-app-db5qm9pmvluspltpkpl9wf.streamlit.app/
+## Deployed Link   
+https://recruittrack---ats-analytics-app-db5qm9pmvluspltpkpl9wf.streamlit.app/
