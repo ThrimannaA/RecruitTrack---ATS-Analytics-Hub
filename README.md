@@ -3,10 +3,10 @@ I have developed an ATS Resume Analysis and Tracking System as a personal projec
 
 Tools and Technologies:
 
- streamlit
- google-generativeai
- python-dotenv
- PyPDF2
+ streamlit | 
+ google-generativeai | 
+ python-dotenv | 
+ PyPDF2 | 
  Visual Studio Code
 
 Deployed Link : RecruitTrack - ATS Analytics Hub Streamlit App: https://recruittrack---ats-analytics-app-db5qm9pmvluspltpkpl9wf.streamlit.app/
