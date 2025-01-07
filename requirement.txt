@@ -2,4 +2,13 @@ streamlit
 google-generativeai
 python-dotenv
 PyPDF2 #uses for read all texts in the pdf
-
+pdf2image
+Pillow
+requests
+streamlit-lottie
+streamlit-aggrid
+scikit-learn
+nltk
+spacy
+numpy
+pandas
