@@ -10,3 +10,5 @@ streamlit-aggrid
 scikit-learn
 nltk
 spacy
+numpy
+pandas
